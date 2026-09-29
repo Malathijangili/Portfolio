@@ -134,9 +134,13 @@ portfolio/
 
 ## 🔗 Repository & Deployment Links
 
-- **GitHub Repository:** [https://github.com/Malathijangili/portfolio](https://github.com/Malathijangili) *(Update with repository URL after creation)*
-- **Live Vercel Website:** Vercel deployment URL: Add after deployment
+## 🌐 Live Demo
 
+🔗 Live Website: https://portfolio-malathi7.vercel.app/
+
+## 📂 GitHub Repository
+
+🔗 GitHub: https://github.com/Malathijangili/Portfolio
 ---
 
 ## 👤 Author Information
